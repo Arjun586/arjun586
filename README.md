@@ -66,16 +66,6 @@ const arjun = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -86,13 +76,5 @@ const arjun = {
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=2&color=6)
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
