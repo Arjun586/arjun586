@@ -59,11 +59,6 @@ const arjun = {
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arjun&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arjun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 
 ## 🤝 Connect With Me
