@@ -10,7 +10,7 @@
 - 🌱 **I'm currently learning:** Python, AI/ML, and advanced DevOps practices
 - 💡 **Daily practice:** Solving **Data Structures & Algorithms** problems to strengthen problem-solving skills
 - 🎯 **Goals:** Leveling up my skills in **Development and AI/ML** to land my first **Internship or Job**
-- 🎲 **Fun fact:** When not coding, I'm exploring complex narratives in **fiction and literature**, particularly the works of Dostoevsky
+- 🎲 **Fun fact:** When not coding, I'm exploring complex narratives in **fiction and literature**
 
 <br/>
 
