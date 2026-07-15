@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Final-year CS undergrad** specializing in **Full-Stack Development (MERN)**
+- 🎓 **Final-year CS undergrad** specializing in **Full-Stack Development**
 - 🌱 **I'm currently learning:** Python, AI/ML, and advanced DevOps practices
 - 💡 **Daily practice:** Solving **Data Structures & Algorithms** problems to strengthen problem-solving skills
 - 🎯 **Goals:** Leveling up my skills in **Development and AI/ML** to land my first **Internship or Job**
