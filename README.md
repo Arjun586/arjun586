@@ -14,8 +14,6 @@
 
 <div align="center">
 
-<p><code>01 / PROFILE OVERVIEW</code></p>
-
 ## About Me
 
 </div>
@@ -47,8 +45,6 @@ Continuously exploring backend design, distributed infrastructure, and algorithm
 
 <div align="center">
 
-<p><code>02 / TECHNICAL ARSENAL</code></p>
-
 ## Tech Stack
 
 </div>
@@ -66,7 +62,6 @@ Continuously exploring backend design, distributed infrastructure, and algorithm
 
 <div align="center">
 
-<p><code>03 / HONORS & METRICS</code></p>
 
 ## Milestones & Recognition
 
@@ -82,8 +77,6 @@ Continuously exploring backend design, distributed infrastructure, and algorithm
 ---
 
 <div align="center">
-
-<p><code>04 / GET IN TOUCH</code></p>
 
 ## Connect With Me
 
