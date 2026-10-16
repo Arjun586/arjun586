@@ -6,8 +6,6 @@
 
 *Building software. Understanding how systems work.*
 
-<p><code>$ whoami</code> → <code>arjun586@engineer</code></p>
-
 [**GitHub**](https://github.com/Arjun586) · [**LinkedIn**](https://www.linkedin.com/in/arjun586) · [**LeetCode**](https://leetcode.com/u/arjun586/) · [**Email**](mailto:arjunofficial586@gmail.com)
 
 </div>
